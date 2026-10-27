@@ -1,0 +1,13 @@
+# dependencies
+tools/node_modules/
+tools/.venv/
+__pycache__/
+
+# media: source photos, processed plates, crests, renders (not redistributed here)
+images/*
+!images/CREDITS.txt
+assets/
+logos/
+out/
+*.mp4
+*.wav
